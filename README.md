@@ -13,4 +13,4 @@ I'm so excited about tools and systems that allows you to craft things, somehow.
 * I'm developer of [Runtime Terrain Editor](https://assetstore.unity.com/packages/tools/terrain/runtime-terrain-editor-222184), [Runtime Transform Gizmo](https://assetstore.unity.com/packages/tools/modeling/runtime-transform-gizmo-247603).
 * Now also I list my assets on Epic's new store [Fab](https://www.fab.com/sellers/pinus%20craft).
 
-* Making gamedev content on [youtube](https://www.youtube.com/@cemugurkaracam) (Turkish).
+* Making gamedev content on [youtube](https://www.youtube.com/@cemugurkaracam) (Türkçe).
